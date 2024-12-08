@@ -1,5 +1,5 @@
 # PyBass
-This is Library for UN4Seen BASS(Python Edition)... So Enjoy to use this!!!
+This is Library for UN4Seen BASS(Python Edition) Remastereb by Jugmonity(Ririto Ninigaya)... So Enjoy to use this!!!
 
 ## Donation
 
